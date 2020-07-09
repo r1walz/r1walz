@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with anything Rust
 - 💬 Ask me about low level programming, C++, Nvidia CUDA C
 - 📫 How to reach me: rohit.ashiwal265@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/his/him
 <!--
 - ⚡ Fun fact: 
 -->
