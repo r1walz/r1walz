@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing in particular
+- 🔭 I’m currently working on making OpenSearch more performant 💪
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on System Programming
 - 🤔 I’m looking for help with anything Rust
